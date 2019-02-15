@@ -1,0 +1,45 @@
+{
+	"profile":{
+		"img":"image.jpg",
+		"name":"sreeram",
+		"roll":"507",
+		"place":"tuni"
+	},
+	"career":{
+		"info":"to improve my thoughts by earning knowledge"
+	},
+	"education":[
+		{
+		  "sno":"1",
+          "degree":"b.tech",
+          "institute":"pragati engineering college",
+          "percentage":"85%",
+          "year":"2021"
+		},
+		{
+			"sno":"2",
+		  "degree":"intermediate",
+		  "institute":"sasi",
+		  "percentage":"98%",
+		  "year":"2017"
+		},
+		{
+			"sno":"3",
+			"degree":"ssc",
+			"institute":"sri prakash",
+			"percentage":"100%",
+			"year":"2015"
+		}
+	],
+	"language":[
+		{
+			"lang":"english"
+		},
+		{
+			"lang":"telugu"
+		},
+		{
+			"lang":"hindi"
+		}
+	]
+}
